@@ -1,0 +1,22 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "Documents",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "truck_no",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Other_Doc",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Created_Time",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}

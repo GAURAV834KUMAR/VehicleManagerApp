@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "983959257189",
+    "project_id": "vehiclemanager-3c80c",
+    "storage_bucket": "vehiclemanager-3c80c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983959257189:android:b3f26f251888ba0d93868c",
+        "android_client_info": {
+          "package_name": "com.flutterflow.vehiclemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983959257189-s964rf84me71r5aui1l7qt6ec59r11h0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.vehiclemanager",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "983959257189-n0du7o1ga1ade037igkglejgcdrj6bnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCESJFoIoAAuT8kpUwiqBY3kGyN6oiSaFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983959257189-n0du7o1ga1ade037igkglejgcdrj6bnr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "983959257189-0agteap8i0lankd5je2qn5r3cb8nvpll.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tensoftware.vehiclemanager"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983959257189:android:05cc4727408ed11893868c",
+        "android_client_info": {
+          "package_name": "com.tensoftware.vehiclemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983959257189-fjqk711kne7ihduud65t3gf2d6v0s9i0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tensoftware.vehiclemanager",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "983959257189-n0du7o1ga1ade037igkglejgcdrj6bnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCESJFoIoAAuT8kpUwiqBY3kGyN6oiSaFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983959257189-n0du7o1ga1ade037igkglejgcdrj6bnr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "983959257189-0agteap8i0lankd5je2qn5r3cb8nvpll.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tensoftware.vehiclemanager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
